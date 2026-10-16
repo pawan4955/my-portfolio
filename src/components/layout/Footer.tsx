@@ -9,17 +9,17 @@ import { GithubIcon, LinkedinIcon } from "@/components/ui/BrandIcons";
 const SOCIAL_LINKS = [
   {
     label: "GitHub",
-    href: "[YOUR_GITHUB_URL]",
+    href: "https://github.com/pawan4955",
     icon: GithubIcon,
   },
   {
     label: "LinkedIn",
-    href: "[YOUR_LINKEDIN_URL]",
+    href: "https://www.linkedin.com/in/pawan-gote-013961330",
     icon: LinkedinIcon,
   },
   {
     label: "Email",
-    href: "mailto:[YOUR_EMAIL]",
+    href: "mailto:pawangote4111@gmail.com",
     icon: Mail,
   },
 ];
@@ -105,7 +105,7 @@ export function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-8 border-t border-slate-800/60">
           <p className="text-xs text-slate-600">
             © {year}{" "}
-            <span className="text-slate-500">[YOUR_NAME]</span>. All rights reserved.
+            <span className="text-slate-500">Pawan Gote</span>. All rights reserved.
           </p>
           <p className="text-xs text-slate-600">
             Built with{" "}
