@@ -21,11 +21,11 @@ const geistMono = Geist_Mono({
 // ─────────────────────────────────────────────────────────────────────────────
 export const metadata: Metadata = {
   title: {
-    default: "[YOUR_NAME] — AI & Software Engineer",
-    template: "%s | [YOUR_NAME]",
+    default: "Pawan Gote — AI & Software Engineer",
+    template: "%s | Pawan Gote",
   },
   description:
-    "Portfolio of [YOUR_NAME] — AI engineer specialising in Databricks, agentic systems, RAG, and full-stack development.",
+    "Portfolio of Pawan Gote — AI engineer specialising in Databricks, agentic systems, RAG, and full-stack development.",
   keywords: [
     "AI Engineer",
     "Databricks",
@@ -36,20 +36,20 @@ export const metadata: Metadata = {
     "Next.js",
     "Portfolio",
   ],
-  authors: [{ name: "[YOUR_NAME]" }],
+  authors: [{ name: "Pawan Gote" }],
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "[YOUR_NAME] Portfolio",
-    title: "[YOUR_NAME] — AI & Software Engineer",
+    siteName: "Pawan Gote Portfolio",
+    title: "Pawan Gote — AI & Software Engineer",
     description:
-      "Portfolio of [YOUR_NAME] — AI engineer specialising in Databricks, agentic systems, RAG, and full-stack development.",
+      "Portfolio of Pawan Gote — AI engineer specialising in agentic systems, RAG, and full-stack development.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "[YOUR_NAME] — AI & Software Engineer",
+    title: "Pawan Gote — AI & Software Engineer",
     description:
-      "AI engineer portfolio featuring Databricks Genie, agentic AI, RAG, and full-stack projects.",
+      "AI engineer portfolio featuring agentic AI, RAG, and full-stack projects.",
   },
   robots: {
     index: true,
