@@ -59,14 +59,14 @@ export function AboutSection() {
               </p>
               <p>
                 {/* Paragraph 2: What you're currently focused on */}
-                I’m passionate about building intelligent systems and exploring the latest advancements in AI. I enjoy working on challenging problems and continuously learning new technologies. I’m particularly interested in AI applications that enhance productivity and create seamless user experiences.
+                I enjoy working on challenging problems and continuously learning new technologies. I’m particularly interested in AI applications that enhance productivity and create seamless user experiences.
                 {/* e.g. "Currently I focus on agentic AI architectures, RAG pipelines, and analytics
                     products on Databricks — helping organisations extract insight from complex,
                     multi-domain data at scale." */}
               </p>
               <p>
                 {/* Paragraph 3: Outside of work / personal */}
-                Outside of coding, I enjoy playing badminton, exploring new technologies, and contributing to open-source projects. I believe in continuous improvement and strive to create solutions that are both innovative and user-centric. I’m always open to new challenges and collaborations!
+                Outside of coding, I enjoy playing Cricket, exploring new technologies, and contributing to open-source projects. I believe in continuous improvement and strive to create solutions that are both innovative and user-centric. I’m always open to new challenges and collaborations!
                 {/* e.g. "Outside of code I enjoy [hobbies], and I'm always experimenting with new
                     model capabilities and open-source tooling." */}
               </p>

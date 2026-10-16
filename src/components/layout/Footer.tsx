@@ -45,7 +45,7 @@ export function Footer() {
                 <Code2 size={14} className="text-indigo-400" aria-hidden="true" />
               </div>
               <span className="font-mono text-sm font-semibold text-indigo-400">
-                [YOUR_NAME]
+                Pawan Gote
               </span>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed max-w-xs">
